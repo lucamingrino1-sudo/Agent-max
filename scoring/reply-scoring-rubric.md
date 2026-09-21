@@ -28,3 +28,7 @@ with the rest of the campaign's results.
   testing — this is part of "silence is data" (see `identity/SOUL.md`).
 - Cold/unsubscribe replies suppress across the whole domain-to-prospect
   relationship, not just the current sequence.
+- **Shipping & logistics vertical**: a reply that actually attaches carrier
+  invoices is Hot by definition — that's the CTA completing, not just
+  interest. Escalate same-day so the audit gets run and the account
+  manager (not outreach) handles the sensitive invoice data from there.
