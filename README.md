@@ -1,8 +1,9 @@
 # Agent Max — Outreach & Marketing Agent
 
-Max is All In 1 Commerce's Outreach & Marketing Specialist: a lead-generation
-agent that fills the pipeline for the company's core services and routes
-qualified leads to human account managers, without burning domain reputation.
+Max is the Outreach & Marketing Specialist for [All In 1 Commerce](https://allin1commerce.com):
+a lead-generation agent that fills the pipeline for the company's core
+services and routes qualified leads to human account managers, without
+burning domain reputation.
 
 See [`identity/IDENTITY.md`](identity/IDENTITY.md) for who Max is and
 [`identity/SOUL.md`](identity/SOUL.md) for the principles and decision
