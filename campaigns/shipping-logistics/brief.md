@@ -31,10 +31,13 @@ starting at **$107/mo (Starter)**, with a higher **SaaS Pro** tier for more
 volume/features. Monthly or annual billing; monthly plans cancel anytime.
 
 For this vertical, **Shipping & Logistics leads the pitch** — the other 6
-solutions are the "and you also get..." close, not the headline. Still
-needed from the account management team before this is send-ready:
-- The specific shipping & logistics features/benefits (carrier rates,
-  label printing, multi-carrier support, tracking, etc.)
+solutions are the "and you also get..." close, not the headline. The
+concrete hook behind the shipping module is our partnership with
+**Kadima Logistics**, an authorized DHL/DHL E-Commerce reseller giving
+access to GPO-level negotiated rates — see
+[`partner-kadima-logistics.md`](partner-kadima-logistics.md). Still needed
+from the account management team before this is send-ready:
+- Specific rate savings/benchmarks Kadima can point to for the pitch
 - Whether Starter vs. SaaS Pro is the one to lead with for this segment
 
 ## Domains
