@@ -20,12 +20,14 @@ per [`scoring/reply-scoring-rubric.md`](../../scoring/reply-scoring-rubric.md).
 
 Each step ships with at least two subject line variants (A/B) tracked
 per domain and per segment. Log results below before promoting a winner
-to the default.
+to the default. Full copy in [`day0-email.md`](day0-email.md).
 
 | Step | Variant | Subject line | Sent | Opens | Replies | Notes |
 |---|---|---|---|---|---|---|
-| 1 | A | _(tbd)_ | | | | |
-| 1 | B | _(tbd)_ | | | | |
+| 1 | A1 | Quick question about {{Company}}'s shipping rates | | | | Cost angle |
+| 1 | A2 | Are you overpaying on shipping right now? | | | | Cost angle |
+| 1 | B1 | Is your shipping process actually working for {{Company}}? | | | | Reliability/process angle |
+| 1 | B2 | Rates aside — is your fulfillment keeping up? | | | | Reliability/process angle |
 
 ## Suppression
 
