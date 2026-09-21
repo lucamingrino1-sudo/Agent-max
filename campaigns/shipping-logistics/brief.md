@@ -24,8 +24,18 @@ cost creep, carrier reliability, fulfillment delays — not a generic
 
 ## Offer
 
-_(Fill in once finalized with the account management team: e.g. shipping
-rate audit, carrier diversification consult, fulfillment cost benchmark.)_
+The pitch is the All In 1 Commerce subscription — 7 bundled solutions
+(Payment Processing, Shipping & Logistics, Marketing, Website Design &
+Creation, Access to Capital, Bookkeeping, Built-in CRM) on one plan,
+starting at **$107/mo (Starter)**, with a higher **SaaS Pro** tier for more
+volume/features. Monthly or annual billing; monthly plans cancel anytime.
+
+For this vertical, **Shipping & Logistics leads the pitch** — the other 6
+solutions are the "and you also get..." close, not the headline. Still
+needed from the account management team before this is send-ready:
+- The specific shipping & logistics features/benefits (carrier rates,
+  label printing, multi-carrier support, tracking, etc.)
+- Whether Starter vs. SaaS Pro is the one to lead with for this segment
 
 ## Domains
 
